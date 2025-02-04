@@ -11,6 +11,7 @@ body{
     /*Any screen resolution from 0-500px wide*/
     body{
         background-color: red;
+        font-size: 130%;
     }
 }
 @media screen and (max-width: 400px){
